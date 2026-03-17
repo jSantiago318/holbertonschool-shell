@@ -16,3 +16,12 @@ A collection of shell scripts covering fundamental Bash/shell commands.
 - **8-firstdelete**: Deletes `/tmp/my_first_directory/betty`
 - **9-firstdirdeletion**: Deletes `/tmp/my_first_directory/`
 - **10-back**: Goes to previous directory
+- **11-lists**: Lists current directory formated 
+- **12-file_type**: Prints the type of the file named `iamafile`
+- **13-symbolic_link**: Creates a symbolic link to `/bin/ls`
+- **14-copy_html**: Copies all the HTML files from the current directory to the parent directory
+- **15-lets_move**: Moves everything the files beginning with an uppercase letter to the
+parent directory
+- **16-clean_emacs**: Deletes all files in the current directory that end with the
+character `~`
+- **17-tree**: Create nested directories `welcome/`, `welcome/to/` and `welcome/to/school`

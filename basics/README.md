@@ -10,3 +10,4 @@ A collection of shell scripts covering fundamental Bash/shell commands.
 - **2-bring_me_home**: Changes the active directory folder to the home 
 - **3-listfiles**: List current directory folder in long format   
 - **4-listmorefiles**: List current directory folder in long format with hidden items
+- **5-listfilesdigitonly**: List current directory folder in long format with hidden items

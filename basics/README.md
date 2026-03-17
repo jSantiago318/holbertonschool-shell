@@ -12,3 +12,4 @@ A collection of shell scripts covering fundamental Bash/shell commands.
 - **4-listmorefiles**: List current directory folder in long format with hidden items
 - **5-listfilesdigitonly**: List current directory folder in long format with hidden items
 - **6-firstdirectory**: Creates a directory inside `/tmp/my_first_directory/`
+- **7-movethatfile**: Moves the file `/tmp/betty` to `/tmp/my_first_directory/`

@@ -1,0 +1,2 @@
+#!/bins/bash
+chown betty hello

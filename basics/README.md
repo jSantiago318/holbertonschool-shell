@@ -15,3 +15,4 @@ A collection of shell scripts covering fundamental Bash/shell commands.
 - **7-movethatfile**: Moves the file `/tmp/betty` to `/tmp/my_first_directory/`
 - **8-firstdelete**: Deletes `/tmp/my_first_directory/betty`
 - **9-firstdirdeletion**: Deletes `/tmp/my_first_directory/`
+- **10-back**: Goes to previous directory

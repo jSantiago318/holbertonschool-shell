@@ -2,9 +2,6 @@
 
 A collection of shell scripts covering fundamental Bash/shell commands.
 
-### Quick Use
-```git update-index --chmod=+x [file]```
-``` git add . && git commit -m 'work in basic t2' && git push ```
 
 ## Scripts
 

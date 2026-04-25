@@ -1,0 +1,16 @@
+total 96
+drwxr-xr-x@ 15 node  staff  480 Apr 24 23:57 .
+drwxr-xr-x@  7 node  staff  224 Apr 24 23:40 ..
+-rwxr-xr-x@  1 node  staff   32 Apr 24 23:41 0-hello_world
+-rwxr-xr-x@  1 node  staff   28 Apr 24 23:44 1-confused_smiley
+-rwxr-xr-x@  1 node  staff   28 Apr 24 23:48 2-hellofile
+-rwxr-xr-x@  1 node  staff   39 Apr 24 23:49 3-twofiles
+-rwxr-xr-x@  1 node  staff   33 Apr 24 23:51 4-lastlines
+-rwxr-xr-x@  1 node  staff   33 Apr 24 23:51 5-firstlines
+-rwxr-xr-x@  1 node  staff   36 Apr 24 23:51 6-third_line
+-rwxr-xr-x@  1 node  staff   80 Apr 24 23:53 7-file
+-rwxr-xr-x@  1 node  staff   36 Apr 24 23:57 8-cwd_state
+-rw-r--r--@  1 node  staff  454 Apr 24 23:42 README.md
+-rw-r--r--@  1 node  staff   12 Apr 24 23:53 \*\\'"Best School"'\*$\?\*\*\*\*\*:)
+-rw-r--r--@  1 node  staff  801 Apr 24 23:51 iacta
+-rw-r--r--@  1 node  staff    0 Apr 24 23:57 ls_cwd_content
